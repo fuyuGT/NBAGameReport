@@ -1,0 +1,38 @@
+body {
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(10, 9, 9);
+    background-color: #f5f3f3;
+    font-family: 'Lato', sans-serif;
+    margin: 30px 75px;
+    padding: 5px;
+}
+
+div{
+    background-color: white;
+    border-radius: 25px;
+}
+h1{
+    margin-left: 30px;
+    display: block;
+}
+
+header {
+    color: black ;
+    margin: auto;
+}
+
+.gameTime, .teamName, .refNames{
+    font-family: 'Lato', sans-serif;
+    text-anchor: middle;
+    color: black;
+    font-weight: 500;
+}
+#today {
+  margin: 30px;  
+}
+.injuryGroup{
+    text-anchor: middle;
+}
+
+
